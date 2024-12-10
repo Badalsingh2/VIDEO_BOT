@@ -51,9 +51,9 @@ them in real-time.
 -----
 1. Run the Script:
    ```
-   python script_name.py
+   python main.py
    ```
-   Replace `script_name.py` with the actual file name of the script.
+   Replace `main.py` with the actual file name of the script.
 
 2. Add Video Files:
    - Place `.mp4` video files in the `/videos` directory.
