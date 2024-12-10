@@ -10,7 +10,7 @@ from watchdog.events import FileSystemEventHandler
 # Constants
 VIDEO_DIR = "./videos"
 API_BASE_URL = "https://api.socialverseapp.com/posts"
-FLIC_TOKEN = "flic_8d54aaad8d1fd25eef44254c5e03f48f4bbbd045333e2749af9376cd6d62d219"
+FLIC_TOKEN = "<YOUR TOKEN>"
 HEADERS = {
     "Flic-Token": FLIC_TOKEN,
     "Content-Type": "application/json"
